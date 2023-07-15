@@ -1,0 +1,1 @@
+Discord.js bot template with basic features.
